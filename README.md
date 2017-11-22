@@ -1,4 +1,4 @@
-#php-html-css-web-aaps" >> README.md
+# php-html-css-web-apps" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
